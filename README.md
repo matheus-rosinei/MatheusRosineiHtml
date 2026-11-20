@@ -2,7 +2,7 @@
 
 ADS Student | Beginner Front-End Developer
 
-I'm 18 years old and currently in the first semester of Systems Analysis and Development.  
+I'm 19 years old and currently in the first semester of Systems Analysis and Development.  
 I'm building my path in tech from the ground up, with a current focus on **HTML, CSS, and JavaScript**.
 
 More than just learning syntax, I'm focused on developing real skills through practice, consistency, and projects that show my progress.  
